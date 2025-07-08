@@ -1,6 +1,7 @@
 <!-- _coverpage.md -->
 
 <!-- ![logo](_media/icon.svg) -->
+<img src="/img/icon.jpeg" width="32" height="32">
 # **曙锅锅页面**
 # docsify <small>3.5</small>
 
